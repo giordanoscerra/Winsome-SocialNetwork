@@ -1,0 +1,37 @@
+{
+  "giuseppe" : {
+    "password" : "2000",
+    "interessi" : [ "gelato", "limone", "menta" ],
+    "seguaci" : [ "seneca" ],
+    "seguiti" : [ "giordano" ],
+    "nomeUtente" : "giuseppe"
+  },
+  "critone" : {
+    "password" : "0000",
+    "interessi" : [ "galli", "asclepio", "john", "steinbeck" ],
+    "seguaci" : [ "giordano" ],
+    "seguiti" : [ "seneca", "platone" ],
+    "nomeUtente" : "critone"
+  },
+  "giordano" : {
+    "password" : "2000",
+    "interessi" : [ "gelato", "limon" ],
+    "seguaci" : [ "giuseppe", "seneca" ],
+    "seguiti" : [ "critone", "seneca" ],
+    "nomeUtente" : "giordano"
+  },
+  "platone" : {
+    "password" : "0000",
+    "interessi" : [ "dialoghi", "galli", "iperuranio" ],
+    "seguaci" : [ "critone" ],
+    "seguiti" : [ ],
+    "nomeUtente" : "platone"
+  },
+  "seneca" : {
+    "password" : "0000",
+    "interessi" : [ "filosofia", "giovani" ],
+    "seguaci" : [ "critone", "giordano" ],
+    "seguiti" : [ "giordano", "giuseppe" ],
+    "nomeUtente" : "seneca"
+  }
+}

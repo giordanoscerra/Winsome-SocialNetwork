@@ -1,0 +1,74 @@
+{
+  "giuseppe" : [ ],
+  "critone" : [ {
+    "id" : 4,
+    "titolo" : "eh?",
+    "contenuto" : "seneca.. non capisco!",
+    "autore" : "critone",
+    "rewinned" : null,
+    "commentiPremiati" : [ ],
+    "dislikesPremiati" : [ ],
+    "dislikesDaPremiare" : [ ],
+    "commentiDaPremiare" : [ ],
+    "itPremiazioni" : 82,
+    "likesDaPremiare" : [ ],
+    "likesPremiati" : [ ]
+  } ],
+  "giordano" : [ {
+    "id" : 0,
+    "titolo" : "ma che buono.",
+    "contenuto" : "il gelato al limon!",
+    "autore" : "giordano",
+    "rewinned" : null,
+    "commentiPremiati" : [ {
+      "autore" : "giuseppe",
+      "commento" : " verissimo amico mio... ma ancor piu' buono l'e' quello a' la' menta !"
+    } ],
+    "dislikesPremiati" : [ ],
+    "dislikesDaPremiare" : [ ],
+    "commentiDaPremiare" : [ ],
+    "itPremiazioni" : 99,
+    "likesDaPremiare" : [ ],
+    "likesPremiati" : [ "giuseppe", "seneca" ]
+  }, {
+    "id" : 2,
+    "titolo" : "a me mi sembra",
+    "contenuto" : "che il gelato piu' buon sia il gelato al limon",
+    "autore" : "giordano",
+    "rewinned" : null,
+    "commentiPremiati" : [ ],
+    "dislikesPremiati" : [ ],
+    "dislikesDaPremiare" : [ ],
+    "commentiDaPremiare" : [ ],
+    "itPremiazioni" : 94,
+    "likesDaPremiare" : [ ],
+    "likesPremiati" : [ "seneca" ]
+  } ],
+  "seneca" : [ {
+    "id" : 1,
+    "titolo" : "critone...",
+    "contenuto" : "debbo un gallo ad asclepiade.",
+    "autore" : "seneca",
+    "rewinned" : null,
+    "commentiPremiati" : [ ],
+    "dislikesPremiati" : [ ],
+    "dislikesDaPremiare" : [ ],
+    "commentiDaPremiare" : [ ],
+    "itPremiazioni" : 97,
+    "likesDaPremiare" : [ ],
+    "likesPremiati" : [ ]
+  }, {
+    "id" : 5,
+    "titolo" : "critone...",
+    "contenuto" : "debbo un gallo ad asclepiade.",
+    "autore" : "seneca",
+    "rewinned" : "seneca",
+    "commentiPremiati" : [ ],
+    "dislikesPremiati" : [ ],
+    "dislikesDaPremiare" : [ ],
+    "commentiDaPremiare" : [ ],
+    "itPremiazioni" : 97,
+    "likesDaPremiare" : [ ],
+    "likesPremiati" : [ ]
+  } ]
+}

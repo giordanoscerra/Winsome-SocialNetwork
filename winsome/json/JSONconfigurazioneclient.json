@@ -1,0 +1,7 @@
+{
+  "indirizzoServer" : "localhost",
+  "tcpPort" : 6666,
+  "registryPort" : 7777,
+  "oggettoRmi" : "REGISTER-SERVER",
+  "netInterface" : "wlan1"
+  }  

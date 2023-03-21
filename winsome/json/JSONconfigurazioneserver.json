@@ -1,0 +1,12 @@
+{
+  "portaTcp": 6666,
+  "portaUdp": 3333,
+  "indirizzoMulticast": "239.255.32.32",
+  "portaMulticast": "4444",
+  "portaRegistro": 7777,
+  "oggettoRmi": "REGISTER-SERVER",
+  "numeroWorkers": 5,
+  "timerPremiazioni": 15000,
+  "percentualeAutore": 70,
+  "timerBackup": 15000
+}
